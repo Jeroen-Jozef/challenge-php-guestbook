@@ -1,0 +1,24 @@
+[
+
+    {
+      "date":"01",
+      "title": "Java",
+      "author": "Herbert Schildt",
+      "message": "Just lovely"
+    },
+
+    {
+      "date":"02",
+      "title": "PHP",
+      "author": "John Schildt",
+      "message": "Gorgeous location"
+    },
+
+    {
+      "date":"03",
+      "title": "Java",
+      "author": "Jane Austin",
+      "message": "Wuthering Heights!"
+    }
+
+]
